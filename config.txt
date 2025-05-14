@@ -1,0 +1,3 @@
+Make By Me
+screen_resolution#1500#900
+fps#60

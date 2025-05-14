@@ -1,0 +1,13 @@
+{
+    "map": "Eagle_Fury",
+    "position": [
+        4014.499645768348,
+        1560.8000000000002
+    ],
+    "items": [
+        "kailloux",
+        "torche_ciel"
+    ],
+    "health": 100,
+    "can_db_jump": true
+}

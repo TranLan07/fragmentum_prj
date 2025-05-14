@@ -1,0 +1,10 @@
+Le personnage a oublié qui il est et doit raviver la flamme de chaque stele sacrée pour pouvoir se souvenir de qui il est.
+
+Il doit récupérer une torche dans chaque monde puis allumer la flamme de la stele.
+ 
+A chaque fois qu'il rallume une flamme il récupère un souvenir petit à petit
+
+Nom du jeu : Fragmentum
+
+
+Nom du personnage : Soren
